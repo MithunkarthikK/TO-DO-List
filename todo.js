@@ -31,7 +31,7 @@ btn.addEventListener('click',(e)=>{
             ul.replaceWith()
         })
         ul.appendChild(deleteBtn)
-        ul.appendChild(editBtn)
+        // ul.appendChild(editBtn)
     }
     
 })
